@@ -1,9 +1,7 @@
 # Class & ID Indexer
 
 **Find dead CSS classes, unused IDs, top-used selectors, and compound class combinations across your entire website codebase.**
-
 **Put all .py files in the same folder and run gui.py**
-
 **Originally created for and used by waltercreations.com**
 
 This is a lightweight, offline Python tool that scans HTML, CSS, and JavaScript files to:
